@@ -1,0 +1,9 @@
+.gpg_keys/
+
+.venv/
+
+node_modules/
+
+*.asc
+
+.env
